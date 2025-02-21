@@ -25,5 +25,5 @@ We build a multivariate linear regression model to handle the dataset after whic
 We visualize how well our model performs by comparing the true(actual) and predicted prices using a confusion matrix.
 
 ## Future work
-* Apply feature engineering by removing features which has a poor correlation. A threshold value will be chosen here.
+* Apply feature engineering by removing features which has a poor correlation with our target variable. A threshold value will be chosen here.
 * Build other regression models like Ridge, Lasso, and Random Forest. And compare accuracy.

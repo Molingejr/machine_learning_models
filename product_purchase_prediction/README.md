@@ -1,5 +1,5 @@
 # Car Price Prediction
-Predicting second hand car prices using regression models.
+Predicting second hand car prices using classification models.
 
 ## Dataset
 The dataset is found in `Social_Network_Ads.csv`
@@ -18,5 +18,5 @@ We build a Logistic Regression classification model to handle the dataset after 
 We visualize how well our model performs by comparing the true(actual) and predicted prices using a histogram, confusion matrix and classification report.
 
 ## Future work
-* Apply feature engineering by removing features which has a poor correlation. A threshold value will be chosen here.
+* Apply feature engineering by removing features which has a poor correlation with our target variable. A threshold value will be chosen here.
 * Build other classification models like Decision Tree, Support Vector Machines, and Random Forest. And compare accuracy.
