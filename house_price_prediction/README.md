@@ -46,3 +46,7 @@ We get visualization of the data using descriptive statistics and visualization.
 
 ## Modeling
 We build a multivariate linear regression model to handle the dataset.
+
+## Future work
+* Apply feature engineering by removing features which has a poor correlation with our target variable. A threshold value will be chosen here.
+* Build other regression models like Ridge, Lasso, Support Vector Machines and Random Forest. And compare accuracy.

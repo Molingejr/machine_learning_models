@@ -11,5 +11,5 @@ We apply the Data Science of
 
 There are many machine learning models out there and we will look at as much as we can. Focusing on all genre of machine learning like `Supervised`, `Unsupervised`, and `Semi-supervised`. 
 
-## COllaboration
+## Collaboration
 Feel free to open an issue if there's any question or improvement that can be done.
